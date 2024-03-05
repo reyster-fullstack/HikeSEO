@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="app">
-        <landing-page></landing-page>
+        <dashboard></dashboard>
     </div>
     
     <script src="{{ mix('/js/app.js') }}"></script>
